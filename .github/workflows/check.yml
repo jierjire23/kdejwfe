@@ -1,9 +1,6 @@
 name: Eldorado check
 
-on:
-  schedule:
-    - cron: "*/30 * * * *"
-  workflow_dispatch:
+on: { schedule: [{ cron: "*/30 * * * *" }], workflow_dispatch: {} }
 
 permissions:
   contents: write
