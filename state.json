@@ -1,7 +1,12 @@
 {
-    "last_offer_title": "Herbal Bandage",
-    "last_changed_at": "2026-11-11 00:36 UTC",
+    "last_offer_title": "Showstopper",
+    "last_changed_at": "2026-11-11 06:54 UTC",
     "history": [
+        {
+            "at": "2026-11-11 06:54 UTC",
+            "old": "Herbal Bandage",
+            "new": "Showstopper"
+        },
         {
             "at": "2026-11-11 00:36 UTC",
             "old": "Vulcano",
