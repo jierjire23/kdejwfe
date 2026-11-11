@@ -1,5 +1,11 @@
 {
-    "last_offer_title": "Vulcano",
-    "last_changed_at": "2026-11-11 00:28 UTC",
-    "history": []
+    "last_offer_title": "Herbal Bandage",
+    "last_changed_at": "2026-11-11 00:36 UTC",
+    "history": [
+        {
+            "at": "2026-11-11 00:36 UTC",
+            "old": "Vulcano",
+            "new": "Herbal Bandage"
+        }
+    ]
 }
