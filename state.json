@@ -1,7 +1,12 @@
 {
-    "last_offer_title": "Showstopper",
-    "last_changed_at": "2026-11-11 06:54 UTC",
+    "last_offer_title": "Deadline",
+    "last_changed_at": "2026-11-11 21:40 UTC",
     "history": [
+        {
+            "at": "2026-11-11 21:40 UTC",
+            "old": "Showstopper",
+            "new": "Deadline"
+        },
         {
             "at": "2026-11-11 06:54 UTC",
             "old": "Herbal Bandage",
