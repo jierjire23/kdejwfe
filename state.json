@@ -1,7 +1,12 @@
 {
-    "last_offer_title": "Hand Drill",
-    "last_changed_at": "2026-11-12 02:37 UTC",
+    "last_offer_title": "Bastion Cell",
+    "last_changed_at": "2026-11-12 10:30 UTC",
     "history": [
+        {
+            "at": "2026-11-12 10:30 UTC",
+            "old": "Hand Drill",
+            "new": "Bastion Cell"
+        },
         {
             "at": "2026-11-12 02:37 UTC",
             "old": "Deadline",
