@@ -1,7 +1,12 @@
 {
-    "last_offer_title": "Motor",
-    "last_changed_at": "2026-11-12 18:39 UTC",
+    "last_offer_title": "Wolfpack",
+    "last_changed_at": "2026-11-12 23:56 UTC",
     "history": [
+        {
+            "at": "2026-11-12 23:56 UTC",
+            "old": "Motor",
+            "new": "Wolfpack"
+        },
         {
             "at": "2026-11-12 18:39 UTC",
             "old": "Bastion Cell",
