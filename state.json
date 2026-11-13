@@ -1,7 +1,12 @@
 {
-    "last_offer_title": "Trigger 'Nade",
-    "last_changed_at": "2026-11-13 12:44 UTC",
+    "last_offer_title": "Battery",
+    "last_changed_at": "2026-11-13 14:47 UTC",
     "history": [
+        {
+            "at": "2026-11-13 14:47 UTC",
+            "old": "Trigger 'Nade",
+            "new": "Battery"
+        },
         {
             "at": "2026-11-13 12:44 UTC",
             "old": "Laser Level",
