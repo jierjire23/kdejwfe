@@ -1,7 +1,12 @@
 {
-    "last_offer_title": "Torrente",
-    "last_changed_at": "2026-11-14 07:19 UTC",
+    "last_offer_title": "Looting Mk. 3 (Survivor)",
+    "last_changed_at": "2026-11-14 19:20 UTC",
     "history": [
+        {
+            "at": "2026-11-14 19:20 UTC",
+            "old": "Torrente",
+            "new": "Looting Mk. 3 (Survivor)"
+        },
         {
             "at": "2026-11-14 07:19 UTC",
             "old": "Battery",
