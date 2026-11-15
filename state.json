@@ -1,7 +1,12 @@
 {
-    "last_offer_title": "Looting Mk. 3 (Survivor)",
-    "last_changed_at": "2026-11-14 19:20 UTC",
+    "last_offer_title": "Mini Pump",
+    "last_changed_at": "2026-11-15 10:13 UTC",
     "history": [
+        {
+            "at": "2026-11-15 10:13 UTC",
+            "old": "Looting Mk. 3 (Survivor)",
+            "new": "Mini Pump"
+        },
         {
             "at": "2026-11-14 19:20 UTC",
             "old": "Torrente",
