@@ -1,7 +1,12 @@
 {
-    "last_offer_title": "Venator",
-    "last_changed_at": "2026-11-16 08:49 UTC",
+    "last_offer_title": "Planks",
+    "last_changed_at": "2026-11-16 19:06 UTC",
     "history": [
+        {
+            "at": "2026-11-16 19:06 UTC",
+            "old": "Venator",
+            "new": "Planks"
+        },
         {
             "at": "2026-11-16 08:49 UTC",
             "old": "Canto",
