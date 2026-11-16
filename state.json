@@ -1,7 +1,12 @@
 {
-    "last_offer_title": "Canto",
-    "last_changed_at": "2026-11-15 17:19 UTC",
+    "last_offer_title": "Venator",
+    "last_changed_at": "2026-11-16 08:49 UTC",
     "history": [
+        {
+            "at": "2026-11-16 08:49 UTC",
+            "old": "Canto",
+            "new": "Venator"
+        },
         {
             "at": "2026-11-15 17:19 UTC",
             "old": "Mini Pump",
