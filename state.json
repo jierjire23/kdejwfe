@@ -1,7 +1,12 @@
 {
-    "last_offer_title": "Anvil",
-    "last_changed_at": "2026-11-18 02:06 UTC",
+    "last_offer_title": "Wires",
+    "last_changed_at": "2026-11-18 10:26 UTC",
     "history": [
+        {
+            "at": "2026-11-18 10:26 UTC",
+            "old": "Anvil",
+            "new": "Wires"
+        },
         {
             "at": "2026-11-18 02:06 UTC",
             "old": "Dolabra",
