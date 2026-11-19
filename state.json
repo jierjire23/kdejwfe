@@ -1,7 +1,12 @@
 {
-    "last_offer_title": "Kettle",
-    "last_changed_at": "2026-11-18 18:57 UTC",
+    "last_offer_title": "Canister",
+    "last_changed_at": "2026-11-19 17:30 UTC",
     "history": [
+        {
+            "at": "2026-11-19 17:30 UTC",
+            "old": "Kettle",
+            "new": "Canister"
+        },
         {
             "at": "2026-11-18 18:57 UTC",
             "old": "Wires",
