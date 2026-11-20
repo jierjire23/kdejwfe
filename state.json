@@ -1,7 +1,12 @@
 {
-    "last_offer_title": "Showstopper",
-    "last_changed_at": "2026-11-19 23:44 UTC",
+    "last_offer_title": "Burletta",
+    "last_changed_at": "2026-11-20 05:02 UTC",
     "history": [
+        {
+            "at": "2026-11-20 05:02 UTC",
+            "old": "Showstopper",
+            "new": "Burletta"
+        },
         {
             "at": "2026-11-19 23:44 UTC",
             "old": "Canister",
