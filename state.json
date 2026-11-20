@@ -1,7 +1,12 @@
 {
-    "last_offer_title": "Burletta",
-    "last_changed_at": "2026-11-20 05:02 UTC",
+    "last_offer_title": "Vita Shot",
+    "last_changed_at": "2026-11-20 21:53 UTC",
     "history": [
+        {
+            "at": "2026-11-20 21:53 UTC",
+            "old": "Burletta",
+            "new": "Vita Shot"
+        },
         {
             "at": "2026-11-20 05:02 UTC",
             "old": "Showstopper",
