@@ -1,7 +1,12 @@
 {
-    "last_offer_title": "Vita Shot",
-    "last_changed_at": "2026-11-20 21:53 UTC",
+    "last_offer_title": "Epoxy Bucket",
+    "last_changed_at": "2026-11-21 10:34 UTC",
     "history": [
+        {
+            "at": "2026-11-21 10:34 UTC",
+            "old": "Vita Shot",
+            "new": "Epoxy Bucket"
+        },
         {
             "at": "2026-11-20 21:53 UTC",
             "old": "Burletta",
