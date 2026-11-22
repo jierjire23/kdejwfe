@@ -1,7 +1,12 @@
 {
-    "last_offer_title": "Calculator",
-    "last_changed_at": "2026-11-22 02:45 UTC",
+    "last_offer_title": "Burletta",
+    "last_changed_at": "2026-11-22 18:10 UTC",
     "history": [
+        {
+            "at": "2026-11-22 18:10 UTC",
+            "old": "Calculator",
+            "new": "Burletta"
+        },
         {
             "at": "2026-11-22 02:45 UTC",
             "old": "Epoxy Bucket",
