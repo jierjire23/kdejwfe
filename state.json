@@ -1,7 +1,12 @@
 {
-    "last_offer_title": "Burletta",
-    "last_changed_at": "2026-11-22 18:10 UTC",
+    "last_offer_title": "Bobcat",
+    "last_changed_at": "2026-11-23 15:37 UTC",
     "history": [
+        {
+            "at": "2026-11-23 15:37 UTC",
+            "old": "Burletta",
+            "new": "Bobcat"
+        },
         {
             "at": "2026-11-22 18:10 UTC",
             "old": "Calculator",
