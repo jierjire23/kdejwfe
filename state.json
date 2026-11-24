@@ -1,7 +1,12 @@
 {
-    "last_offer_title": "Snap Hook",
-    "last_changed_at": "2026-11-24 13:08 UTC",
+    "last_offer_title": "ARC Alloy",
+    "last_changed_at": "2026-11-24 23:10 UTC",
     "history": [
+        {
+            "at": "2026-11-24 23:10 UTC",
+            "old": "Snap Hook",
+            "new": "ARC Alloy"
+        },
         {
             "at": "2026-11-24 13:08 UTC",
             "old": "Anvil",
