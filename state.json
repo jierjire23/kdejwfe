@@ -1,7 +1,12 @@
 {
-    "last_offer_title": "Anvil",
-    "last_changed_at": "2026-11-24 02:42 UTC",
+    "last_offer_title": "Snap Hook",
+    "last_changed_at": "2026-11-24 13:08 UTC",
     "history": [
+        {
+            "at": "2026-11-24 13:08 UTC",
+            "old": "Anvil",
+            "new": "Snap Hook"
+        },
         {
             "at": "2026-11-24 02:42 UTC",
             "old": "Bobcat",
