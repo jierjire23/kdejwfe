@@ -1,7 +1,12 @@
 {
-    "last_offer_title": "Torrente IV",
-    "last_changed_at": "2026-11-25 05:33 UTC",
+    "last_offer_title": "Radial Press",
+    "last_changed_at": "2026-11-25 16:33 UTC",
     "history": [
+        {
+            "at": "2026-11-25 16:33 UTC",
+            "old": "Torrente IV",
+            "new": "Radial Press"
+        },
         {
             "at": "2026-11-25 05:33 UTC",
             "old": "ARC Alloy",
