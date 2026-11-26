@@ -1,7 +1,12 @@
 {
-    "last_offer_title": "Radial Press",
-    "last_changed_at": "2026-11-25 16:33 UTC",
+    "last_offer_title": "Rascal Blueprint",
+    "last_changed_at": "2026-11-26 00:47 UTC",
     "history": [
+        {
+            "at": "2026-11-26 00:47 UTC",
+            "old": "Radial Press",
+            "new": "Rascal Blueprint"
+        },
         {
             "at": "2026-11-25 16:33 UTC",
             "old": "Torrente IV",
