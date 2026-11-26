@@ -1,7 +1,12 @@
 {
-    "last_offer_title": "Rascal Blueprint",
-    "last_changed_at": "2026-11-26 00:47 UTC",
+    "last_offer_title": "Sensors",
+    "last_changed_at": "2026-11-26 09:03 UTC",
     "history": [
+        {
+            "at": "2026-11-26 09:03 UTC",
+            "old": "Rascal Blueprint",
+            "new": "Sensors"
+        },
         {
             "at": "2026-11-26 00:47 UTC",
             "old": "Radial Press",
