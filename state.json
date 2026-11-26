@@ -1,7 +1,12 @@
 {
-    "last_offer_title": "Sensors",
-    "last_changed_at": "2026-11-26 09:03 UTC",
+    "last_offer_title": "Battery",
+    "last_changed_at": "2026-11-26 19:11 UTC",
     "history": [
+        {
+            "at": "2026-11-26 19:11 UTC",
+            "old": "Sensors",
+            "new": "Battery"
+        },
         {
             "at": "2026-11-26 09:03 UTC",
             "old": "Rascal Blueprint",
