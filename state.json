@@ -1,7 +1,12 @@
 {
-    "last_offer_title": "Canto Blueprint",
-    "last_changed_at": "2026-11-28 02:51 UTC",
+    "last_offer_title": "Vulcano IV",
+    "last_changed_at": "2026-11-28 11:12 UTC",
     "history": [
+        {
+            "at": "2026-11-28 11:12 UTC",
+            "old": "Canto Blueprint",
+            "new": "Vulcano IV"
+        },
         {
             "at": "2026-11-28 02:51 UTC",
             "old": "Hullcracker IV",
